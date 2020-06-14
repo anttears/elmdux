@@ -1,0 +1,10 @@
+.nested-component {
+    border: 1px solid #333;
+    color: #efefef;
+    padding: 4px;
+    background-color: #999;
+}
+
+.nested-component .nc-text {
+    margin: 0;
+}
